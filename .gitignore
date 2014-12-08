@@ -6,4 +6,3 @@ log/
 *.gem
 *.swp
 .rvmrc
-Gemfile.lock
